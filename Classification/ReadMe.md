@@ -18,4 +18,4 @@ Dependent Variable-Purchased: Categorical variable showing if item is purchased 
 
 We are going to build a model that is going to predict if users choose to buy or not based on two variables which are going to be the age and the estimated salary
 
-Goal is to find right users in right category. We will use classifier to predict user choice to purchase SUV or not
+Goal is to find right users in right category. We will use different classifiers to predict user choice to purchase SUV or not. Additionally, we will check which model predicts the most accurate results.
