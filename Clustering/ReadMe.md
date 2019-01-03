@@ -1,4 +1,4 @@
-#K-Means analysis
+# K-Means analysis
 
 K-means clustering is a type of unsupervised learning, which is used when you have unlabeled data (i.e., data without defined categories or groups). The goal of this algorithm is to find groups in the data, with the number of groups represented by the variable K. The algorithm works iteratively to assign each data point to one of K groups based on the features that are provided. Data points are clustered based on feature similarity. The results of the K-means clustering algorithm are:
 
@@ -6,7 +6,7 @@ The centroids of the K clusters, which can be used to label new data Labels for 
 
 Each centroid of a cluster is a collection of feature values which define the resulting groups. Examining the centroid feature weights can be used to qualitatively interpret what kind of group each cluster represents.
 
-Dataset
+# Problem statement
 Goal is that there is a big mall in a specific city that contains informations of its clients that subscribe to the membership card. When the clients subscribed to the card they provided their information like their gender, their age, and their annual income because they have this card they use it to buy all sorts of things in the mall. Therefore themall has to purchase history of each of its client member and that's how they obtained the last column which is a spending trend.
 
 So as a reminder the spinning score is a score that the Mall computed for each of their client based on several criteria including their income, the number of times per week they show up in the mall, and the amount of dollars they spent in a year. 
