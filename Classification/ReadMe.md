@@ -3,7 +3,7 @@ In machine learning and statistics, classification is the problem of identifying
 
 
 # Dataset
-Dataset that I am using is about users in social networks. It describes ocial network has several business clients which can put their ads on the social network and one of their clients is a car company who has just launched their brand new luxury SUV for a ridiculous price and we're trying to see which of these users of the social network are going to buy this brand-new SUV.
+Dataset that I am using is about users in social networks. It describes that social network has several business clients which can put their ads on the social network and one of their clients is a car company who has just launched their brand new luxury SUV for a ridiculous price. We're trying to see which of these users of the social network are going to buy this brand-new SUV.
 
 Key variables/features are : 
 User ID
