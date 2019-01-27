@@ -11,3 +11,6 @@ of that data into focus for further analysis.
 
 Billbord dataset showing number of songs ranked
 
+# Libraries
+
+Numpy, Pandas,matplotlib
