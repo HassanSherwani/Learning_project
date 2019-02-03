@@ -1,13 +1,13 @@
-# Network Introduction
+# Network Introduction<br>
 
-- How to draw graph
--What are nodes and how to connect them
--How edges make connection between different point in network? And how they play significant role?
--How to plot?
--How to find main path?
+- How to draw graph?<br>
+-What are nodes and how to connect them?<br>
+-How edges make connection between different point in network? And how they play significant role?<br>
+-How to plot?<br>
+-How to find main path?<br>
 
-# Modules
+# Modules<br>
 
-networkx
-random
-matplotlib
+networkx<br>
+random<br>
+matplotlib<br>
