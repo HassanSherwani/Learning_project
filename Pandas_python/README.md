@@ -4,8 +4,9 @@ This could be very useful for data exploration and data pre-processing
 
 # Modules
 
-pandas
+pandas<br>
 matplotlib
 numpy 
 string
 math
+version_information
