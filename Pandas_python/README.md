@@ -4,4 +4,4 @@ This could be very useful for data exploration and data pre-processing
 
 # Modules
 
-pandas, , matplotlib
+pandas , matplotlib
