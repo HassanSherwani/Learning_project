@@ -5,8 +5,8 @@ This could be very useful for data exploration and data pre-processing
 # Modules
 
 pandas<br>
-matplotlib
-numpy 
-string
-math
-version_information
+matplotlib<br>
+numpy <br>
+string<br>
+math<br>
+version_information<br>
